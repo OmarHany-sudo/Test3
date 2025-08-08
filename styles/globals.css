@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* basic RTL support when Arabic */
+html[lang="ar"] { direction: rtl; }

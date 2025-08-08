@@ -1,0 +1,28 @@
+{
+  "id": "demo-shop",
+  "name": "Foul & Coffee — Demo",
+  "description": "A demo menu for fast testing. تمثيلي للعرض السريع.",
+  "items": [
+    {
+      "id": "1",
+      "name": "Foul",
+      "description": "Classic Egyptian foul",
+      "price": 20,
+      "image": "/images/food1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Taameya",
+      "description": "Crispy taameya",
+      "price": 15,
+      "image": "/images/food2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Arabic Coffee",
+      "description": "Strong coffee",
+      "price": 10,
+      "image": "/images/coffee.jpg"
+    }
+  ]
+}
